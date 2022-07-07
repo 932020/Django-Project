@@ -3,7 +3,7 @@
 ![django](https://user-images.githubusercontent.com/72516521/170875115-a62488fa-21c0-407a-b75a-826e0c30337c.png)
 
 CrowdFunding Web App using Python "Django Framework"
-## About the web
+## About the web-App:
 
 CrowdFunding Web App that allow user to:
 
@@ -146,6 +146,9 @@ https://user-images.githubusercontent.com/72516521/167317970-c0bfbb76-4342-462c-
 
 ## Authors
 
-- [@Ahmed Ebrahim]
-- [@Mohamed Fathi]
-- [@Eman Mahmoud]
+- [@Ahmed Mohamed Elsheikh](https://github.com/AhmedElsheikh680)
+- [@Ahmed Reda Mohamed Bastwesy](https://github.com/Ahmed-bastwesy)
+- [@Khalid Gamal Hamed](https://github.com/khalidghanamy)
+- [@Mohamed Hossam ELdeen Alwakiel](https://github.com/Mo7ammed7ossam)
+- [@Nermeen Ismail Shehab](https://github.com/NermeenShehab)
+- [@Reem Adel Bedeer Mahmoud Samak](https://github.com/reemadelsamak)
