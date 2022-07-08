@@ -128,8 +128,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 EMAIL_USE_TLS = True  
 EMAIL_HOST = 'smtp.gmail.com'  
-EMAIL_HOST_USER = 'elashker365@gmail.com'
-EMAIL_HOST_PASSWORD = 'nada01207808381'
+EMAIL_HOST_USER = 'ahmedfares4518@gmail.com'  
+EMAIL_HOST_PASSWORD = 'djsfzhgksgktljtf'
 EMAIL_PORT = 587  
 
 
