@@ -1,9 +1,5 @@
-# Crowd-Funding
 
-![django](https://user-images.githubusercontent.com/72516521/170875115-a62488fa-21c0-407a-b75a-826e0c30337c.png)
-
-CrowdFunding Web App using Python "Django Framework"
-## About the web
+## About the web-App:
 
 CrowdFunding Web App that allow user to:
 
@@ -82,8 +78,8 @@ CrowdFunding Web App that allow user to:
 
 EMAIL_USE_TLS = True  
 EMAIL_HOST = 'smtp.gmail.com'  
-EMAIL_HOST_USER = 'MANKRA42TEAM@gmail.com'  
-EMAIL_HOST_PASSWORD = 'Mankra12345*'
+EMAIL_HOST_USER = 'ahmedfares4518@gmail.com'  
+EMAIL_HOST_PASSWORD = 'djsfzhgksgktljtf'
 EMAIL_PORT = 587
 
 \*\* or you can add your [gmail] but insure that the account security not activated :D
@@ -98,17 +94,17 @@ EMAIL_PORT = 587
 9- Run the following to load Data base
 
 ```bash
-python3 manage.py makemigrations
+python manage.py makemigrations
 ```
 
 ```bash
-python3 manage.py migrate
+python manage.py migrate
 ```
 
 10- create your superuser [admin] to access [Admin Dashboard]
 
 ```bash
-python3 manage.py createsuperuser
+python manage.py createsuperuser
     > enter user name
     > enter user email
     > enter password
@@ -117,7 +113,7 @@ python3 manage.py createsuperuser
 11- After All is Finished run server
 
 ```bash
-	python3 manage.py runserver
+	python manage.py runserver
 ```
 
 \*\* take the link (http://127.0.0.1:8000/) and put it on your browser
@@ -133,18 +129,13 @@ python3 manage.py createsuperuser
 
 2- if you create any account in site you need to activate it from this [gmail account] >>
 
-- Email : MANKRA42TEAM@gmail.com
-- Password : Mankra12345*
+- Email : ahmedfares4518@gmail.com
+- Password : djsfzhgksgktljtf
 ## Demo
 
 https://user-images.githubusercontent.com/72516521/167317970-c0bfbb76-4342-462c-931c-b21f9f625d39.mp4
 
-![crowdLanding](https://user-images.githubusercontent.com/72516521/170875164-f6118415-525b-485b-a7a8-f6ad764ced2a.png)
-![2](https://user-images.githubusercontent.com/72516521/170875199-f76c64eb-8aaa-4d48-a862-b33b5e84eb55.png)
-![crowdDetails](https://user-images.githubusercontent.com/72516521/170875238-53b9cf31-ae33-4022-921a-c22e2620138e.png)
-![4](https://user-images.githubusercontent.com/72516521/170875230-c173488f-5e3c-41d9-bf9e-ba38aec3020b.png)
-
-## Authors
+# Authors
 
 - [@Ahmed Ebrahim]
 - [@Mohamed Fathi]
